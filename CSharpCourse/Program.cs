@@ -10,7 +10,7 @@ namespace CSharpCourse
     {
         static void Main(string[] args)
         {
-            //ValueType
+            //ValueType...
             //Console.WriteLine("Hello World");
 
             var number4 = 29;
